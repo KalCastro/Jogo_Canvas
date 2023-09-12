@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to bottom, #5d048c, #ed05da);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Preencher a altura da janela de visualização */
+}
+
+/* Cantos arredondados */
+#Canvas {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px; 
+    border-top-right-radius: 30px; 
+    border-bottom-right-radius: 30px; 
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+button{
+    background: linear-gradient(to bottom, #5d048c, #ca03fc);
+}
