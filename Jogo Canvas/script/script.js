@@ -1,4 +1,4 @@
-   const canvas = document.getElementById("Canvas");
+const canvas = document.getElementById("Canvas");
 const ctx = canvas.getContext("2d");
 
 // Variáveis do jogo
