@@ -135,3 +135,5 @@ Este é um jogo simples de plataforma feito em JavaScript onde um cubo deve pula
 - Você pode personalizar os elementos do jogo como as cores, tamanhos e velocidades do cubo, dos obstáculos e do cenário de fundo ajustando as variáveis no início do código.
 
 - Personalize o cenário de fundo modificando as coordenadas das montanhas e as cores usadas na função `drawBackground()`.
+
+  <img src="imgs/classe.png" height="600px" width="800px">
