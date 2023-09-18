@@ -14,7 +14,8 @@ Este é um jogo simples de plataforma feito em JavaScript onde um cubo deve pula
 
 ## vídeo da execução do jogo
 
- <iframe width="560" height="315" src="https://youtu.be/URt9AiasUzU?si=2FcUpGirT8Oj_dEp" frameborder="0" allowfullscreen></iframe>
+ [Assista ao vídeo de demonstração](https://youtu.be/URt9AiasUzU?si=2FcUpGirT8Oj_dEp)
+>
  
 ## HTML
 
