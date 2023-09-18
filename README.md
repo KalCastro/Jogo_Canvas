@@ -14,8 +14,7 @@ Este é um jogo simples de plataforma feito em JavaScript onde um cubo deve pula
 
 ## vídeo da execução do jogo
 
- [Assista ao vídeo de demonstração](https://youtu.be/URt9AiasUzU?si=2FcUpGirT8Oj_dEp)
->
+ https://github.com/KalCastro/Jogo_Canvas/assets/127865406/24ddde09-56c7-4837-b7a9-b0ec0c44aff0
  
 ## HTML
 
