@@ -139,3 +139,9 @@ Este é um jogo simples de plataforma feito em JavaScript onde um cubo deve pula
 
 - Personalize o cenário de fundo modificando as coordenadas das montanhas e as cores usadas na função `drawBackground()`.
 
+## contribuidores
+
+- Mariana Santiago (MariSantiago0)
+
+- Kauã de Castro (KalCastro)
+
