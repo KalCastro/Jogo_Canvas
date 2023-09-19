@@ -2,8 +2,8 @@
 
 Este é um jogo simples de plataforma feito em JavaScript onde um cubo deve pular obstáculos para evitar colisões. Abaixo, você encontrará uma visão geral das principais características e funcionalidades do jogo, juntamente com explicações sobre os códigos HTML, JavaScript e CSS fornecidos.
 
-<IMG SRC="Jogo Canvas/Imgs/jogo foto.png">
-<IMG SRC="Jogo Canvas/Imgs/retro.png">
+<IMG SRC="Jogo Canvas/imgs/jogo foto.png">
+<IMG SRC="Jogo Canvas/imgs/retro.png">
 
 ## Visão Geral do Jogo
 
